@@ -8,7 +8,8 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/typescript_tutorial/t1.js"
+            "program": "${workspaceFolder}/ts_tutorial/hello.js"
+            // "program": "${workspaceFolder}/typescript_tutorial/t1.js"
         }
     ]
 }
